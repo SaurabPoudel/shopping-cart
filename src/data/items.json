@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Law Cap",
+        "price": 10,
+        "imgUrl":"/images/cap.jpg"
+    },
+    {
+        "id":2,
+        "name":"Straw Hat",
+        "price": 20,
+        "imgUrl":"/images/hat.webp"
+    },
+    {
+        "id":3,
+        "name":"Scout Regiment Hoodie",
+        "price": 30,
+        "imgUrl":"/images/hoodie.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Scout Regiment Jacket",
+        "price": 40,
+        "imgUrl": "/images/jacket.webp"
+    },
+    {
+        "id": 5,
+        "name": "Sabo Hat",
+        "price": 15,
+        "imgUrl": "/images/sabo-hat.jpeg"
+    }
+]
